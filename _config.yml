@@ -1,0 +1,5 @@
+title: "personal blog"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
